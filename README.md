@@ -7,6 +7,8 @@
 **Folder 5:** Arithmetic Operations <br>
 **Folder 6:** Check whether Number is Even or Odd <br>
 **Folder 7:** Greatest of three numbers <br>
+**Folder 8:** Swap numbers with/without temp variable <br>
+**Folder 9:** GCheck whether Leap year or not <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
