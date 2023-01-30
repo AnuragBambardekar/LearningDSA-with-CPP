@@ -6,6 +6,7 @@
 **Folder 4:** Control Structures in C++ <br>
 **Folder 5:** Arithmetic Operations <br>
 **Folder 6:** Check whether Number is Even or Odd <br>
+**Folder 7:** Greatest of three numbers <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
