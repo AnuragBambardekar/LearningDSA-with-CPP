@@ -8,7 +8,10 @@
 **Folder 6:** Check whether Number is Even or Odd <br>
 **Folder 7:** Greatest of three numbers <br>
 **Folder 8:** Swap numbers with/without temp variable <br>
-**Folder 9:** GCheck whether Leap year or not <br>
+**Folder 9:** Check whether Leap year or not <br>
+**Folder 10:** Factorial of a number <br>
+**Folder 11:** Palindrome Number <br>
+**Folder 12:** Fibonacci Series <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
