@@ -12,6 +12,7 @@
 **Folder 10:** Factorial of a number <br>
 **Folder 11:** Palindrome Number <br>
 **Folder 12:** Fibonacci Series <br>
+**Folder 13:** Arrays <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
