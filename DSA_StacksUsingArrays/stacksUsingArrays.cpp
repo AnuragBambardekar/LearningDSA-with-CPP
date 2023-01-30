@@ -127,38 +127,45 @@ int main()
         cin>>option;
         switch(option)
         {
+            case 0:
+                cout<<endl;
+                break;
             case 1:
                 cout<<"Enter an item to push: "<<endl;
                 cin>>value;
                 s1.push(value);
+                cout<<endl;
                 break;
             
             case 2:
                 cout<<"Pop function Called! Popped value: "<<s1.pop()<<endl;
+                cout<<endl;
                 break;
             
             case 3:
                 if(s1.isEmpty())
-                    cout<<"Stack is Empty! "<<endl;
+                    cout<<"Stack is Empty! "<<endl<<endl;
                 else
-                    cout<<"Stack is Not Empty! "<<endl;
+                    cout<<"Stack is Not Empty! "<<endl<<endl;
                 break;
 
             case 4:
                 if(s1.isFull())
-                    cout<<"Stack is Full! "<<endl;
+                    cout<<"Stack is Full! "<<endl<<endl;
                 else
-                    cout<<"Stack is Not Full! "<<endl;
+                    cout<<"Stack is Not Full! "<<endl<<endl;
                 break;
 
             case 5:
                 cout<<"Enter position of an item to peek: ";
                 cin>>position;
                 cout<<"Peek function called! Value at position "<<position<<endl<<s1.peek(position)<<endl;
+                cout<<endl;
                 break;
 
             case 6:
                 cout<<"Count Function called! Number of items in the stack are: "<<s1.count()<<endl;
+                cout<<endl;
                 break;
 
             case 7:
@@ -167,19 +174,23 @@ int main()
                 cout<<"Enter value of the item: ";
                 cin>>value;
                 s1.change(position,value);
+                cout<<endl;
                 break;
             
             case 8:
                 cout<<"Display function called! "<<endl;
                 s1.display();
+                cout<<endl;
                 break;
             
             case 9:
                 system("cls");
+                cout<<endl;
                 break;
             
             default:
-                cout<<"Enter a correct Option number"<<endl;
+                cout<<"Enter a Correct Option number"<<endl;
+                cout<<"--------------------------------"<<endl;
         }
 
     }while(option!=0);
