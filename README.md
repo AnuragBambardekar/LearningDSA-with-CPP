@@ -13,6 +13,8 @@
 **Folder 11:** Palindrome Number <br>
 **Folder 12:** Fibonacci Series <br>
 **Folder 13:** Arrays <br>
+**Folder 14:** Pointers <br>
+**Folder 15:** Dynamic Memory Allocation <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
