@@ -15,6 +15,11 @@
 **Folder 13:** Arrays <br>
 **Folder 14:** Pointers <br>
 **Folder 15:** Dynamic Memory Allocation <br>
+**Folder 16:** Functions <br>
+**Folder 17:** Inline Functions <br>
+**Folder 18:** Default Parameters <br>
+**Folder 19:** Function Overloading <br>
+**Folder 20:** Pass by Value | Pass by Reference | Pass by Address <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
