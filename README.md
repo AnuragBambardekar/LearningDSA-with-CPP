@@ -20,6 +20,8 @@
 **Folder 18:** Default Parameters <br>
 **Folder 19:** Function Overloading <br>
 **Folder 20:** Pass by Value | Pass by Reference | Pass by Address <br>
+**Folder 21:** Exception Handling <br>
+**Folder 22:** File Handling <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
