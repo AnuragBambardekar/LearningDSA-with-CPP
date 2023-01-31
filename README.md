@@ -22,6 +22,9 @@
 **Folder 20:** Pass by Value | Pass by Reference | Pass by Address <br>
 **Folder 21:** Exception Handling <br>
 **Folder 22:** File Handling <br>
+**Folder 23:** Reading an Unknown number of inputs <br>
+**Folder 24:** Nested Scopes <br>
+**Folder 25:** Compound Types: [References and Pointers] <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
@@ -30,3 +33,4 @@
 ### References
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q - Simple Snippets C++ Tutorial
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG - Simple Snippets DSA with C++
+- https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS - Neso Academy C++ Programming
