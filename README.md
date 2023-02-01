@@ -23,8 +23,10 @@
 **Folder 21:** Exception Handling <br>
 **Folder 22:** File Handling <br>
 **Folder 23:** Reading an Unknown number of inputs <br>
-**Folder 24:** Nested Scopes <br>
-**Folder 25:** Compound Types: [References and Pointers] <br>
+**Folder 24:** Counting the number of consecutive inputs [istream as test condition in while loop] <br>
+**Folder 25:** Nested Scopes <br>
+**Folder 26:** Compound Types: [References and Pointers] <br>
+**Folder 27:** Const Qualifier <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
