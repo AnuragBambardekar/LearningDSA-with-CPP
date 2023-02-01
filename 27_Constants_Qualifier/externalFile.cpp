@@ -1,0 +1,1 @@
+extern const int buffsize1 = 512;
