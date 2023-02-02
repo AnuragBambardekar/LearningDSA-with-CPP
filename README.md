@@ -27,6 +27,7 @@
 **Folder 25:** Nested Scopes <br>
 **Folder 26:** Compound Types: [References and Pointers] <br>
 **Folder 27:** Const Qualifier <br>
+**Folder 28:** Aliases <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
