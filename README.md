@@ -31,6 +31,7 @@
 **Folder 29:** Auto type specifier <br>
 **Folder 30:** decltype type specifier <br>
 **Folder 31:** Strings <br>
+**Folder 32:** Vectors <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
