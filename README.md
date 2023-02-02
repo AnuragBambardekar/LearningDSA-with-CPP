@@ -28,6 +28,8 @@
 **Folder 26:** Compound Types: [References and Pointers] <br>
 **Folder 27:** Const Qualifier <br>
 **Folder 28:** Aliases <br>
+**Folder 29:** Auto type specifier <br>
+**Folder 30:** decltype type specifier <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
