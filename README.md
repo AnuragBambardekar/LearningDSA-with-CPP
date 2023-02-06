@@ -33,7 +33,7 @@
 **Folder 31:** Strings <br>
 **Folder 32:** Vectors <br>
 **Folder 33:** Structures <br>
-**Folder 34:** OOPS [Classes, Objects, Constructors, Destructors, Pointers & Objects, Friend Function] <br>
+**Folder 34:** OOPS [Classes, Objects, Constructors, Destructors, Pointers & Objects, Friend Function, Inheritance] <br>
 
 ### Data Structures
 **DSAFolder 1:** Implementing Stack using Arrays <br>
