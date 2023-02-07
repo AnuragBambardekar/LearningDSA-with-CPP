@@ -36,6 +36,7 @@
 **Folder 34:** OOPS [Classes, Objects, Constructors, Destructors, Pointers & Objects, Friend Function, Inheritance, Access Specifiers, Function Overloading and Function Overriding] <br>
 **Folder 35:** Virtual Functions & Abstract Class <br>
 **Folder 36:** Multiple Inheritance & Scope Resolution Operator <br>
+**Folder 37:** Hybrid Inheritance & Diamond Problem & it's resolution <br>
 
 
 ### Data Structures
