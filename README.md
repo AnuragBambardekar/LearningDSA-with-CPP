@@ -43,6 +43,7 @@
 **Folder 41:** Class Template <br>
 **Folder 42:** Recursive Functions <br>
 **Folder 43:** Friend Class <br>
+**Folder 44:** Strings in C++ <br>
 
 
 ### Data Structures
