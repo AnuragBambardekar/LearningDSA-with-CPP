@@ -1,4 +1,4 @@
-# Learning Data Structures with C++
+# Learning C++
 
 **Folder 1:** First program in C++ <br>
 **Folder 2:** Datatypes in C++ <br>
