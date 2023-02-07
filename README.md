@@ -42,6 +42,7 @@
 **Folder 40:** Function Template <br>
 **Folder 41:** Class Template <br>
 **Folder 42:** Recursive Functions <br>
+**Folder 43:** Friend Class <br>
 
 
 ### Data Structures
