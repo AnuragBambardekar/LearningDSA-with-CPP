@@ -39,6 +39,7 @@
 **Folder 37:** Hybrid Inheritance & Diamond Problem & it's resolution <br>
 **Folder 38:** Static Data Members & Static Member Functions <br>
 **Folder 39:** Operator Overloading (Unary and Binary) <br>
+**Folder 40:** Function Template <br>
 
 
 ### Data Structures
