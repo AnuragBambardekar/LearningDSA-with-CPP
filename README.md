@@ -37,6 +37,7 @@
 **Folder 35:** Virtual Functions & Abstract Class <br>
 **Folder 36:** Multiple Inheritance & Scope Resolution Operator <br>
 **Folder 37:** Hybrid Inheritance & Diamond Problem & it's resolution <br>
+**Folder 38:** Static Data Members & Static Member Functions <br>
 
 
 ### Data Structures
