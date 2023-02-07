@@ -35,6 +35,7 @@
 **Folder 33:** Structures <br>
 **Folder 34:** OOPS [Classes, Objects, Constructors, Destructors, Pointers & Objects, Friend Function, Inheritance, Access Specifiers, Function Overloading and Function Overriding] <br>
 **Folder 35:** Virtual Functions & Abstract Class <br>
+**Folder 36:** Multiple Inheritance & Scope Resolution Operator <br>
 
 
 ### Data Structures
