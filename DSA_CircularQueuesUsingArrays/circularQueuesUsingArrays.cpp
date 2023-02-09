@@ -1,19 +1,21 @@
 #include <iostream>
 using namespace std;
 
-class Queue{
+class CircularQueue{
     private:
         int front;
         int rear;
         int arr[5];
+        int itemCount;
 
     public:
-        Queue () //constructor
+        CircularQueue () //constructor
         {
+            itemCount = 0;
             front = rear = -1;
             for(int i=0; i<5; i++)
             {
-                arr[i]=0; //initialize queue with 0
+                arr[i]=0; //initialize circular queue with 0
             }
         }
 
@@ -29,7 +31,7 @@ class Queue{
         //check whether queue is full
         bool isFull()
         {
-            if(rear==4)
+            if((rear+1)%5==front)
                 return true;
             else
                 return false;
@@ -49,9 +51,10 @@ class Queue{
                 arr[rear] = val;
             }
             else {
-                rear++;
+                rear = (rear+1)%5;
                 arr[rear] = val;
             }
+            itemCount++;
         }
 
         //push operation
@@ -69,12 +72,14 @@ class Queue{
                 arr[front] = 0;
                 front = -1;
                 rear = -1;
+                itemCount--;
                 return x;
             }
             else{
                 x = arr[front];
                 arr[front] = 0;
-                front++;
+                front = (front+1)%5;
+                itemCount--;
                 return x;
             }
         }
@@ -82,7 +87,7 @@ class Queue{
         //return count of values in queue
         int count()
         {
-            return(rear-front+1);
+            return(itemCount);
         }
 
         //display the queue
@@ -100,7 +105,7 @@ class Queue{
 int main()
 {
     //create an object of queue
-    Queue q1;
+    CircularQueue q1;
     int option, position, value;
 
     //Create a menu
