@@ -285,7 +285,7 @@ int main()
                 s.deleteNodeByKey(k1);
                 break;
             case 5:
-                cout<<"Update Node By Key operation \n Enter key o& New Data to be updated: "<<endl;
+                cout<<"Update Node By Key operation \n Enter key & New Data to be updated: "<<endl;
                 cin>>key1;
                 cin>>data1;
                 s.updateNodeByKey(key1, data1);
