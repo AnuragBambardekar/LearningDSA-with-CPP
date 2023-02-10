@@ -138,7 +138,7 @@ class SinglyLinkedList{
                     //our pointer is pointing at n2
                     //n is n4, ptr is n2
                     n->next = ptr->next; //n2's next address is stored in n4's next address
-                    ptr->next = n;
+                    ptr->next = n; //n4's address is stored in n2's next address
                     cout<<"Node Inserted! "<<endl;
                 }
             }
@@ -157,14 +157,16 @@ class SinglyLinkedList{
                 if(head->key == k)
                 {
                     //unlink the head node itself (n1)
-                    head = head->next; //head is now having address of next address(n2)
+                    head = head->next; //head is now having address of next address(n2), since we deleted the head
                     cout<<"Node UNLINKED with keys value: "<<k<<endl;
                 }
                 else //delete node which is not head (anything in between)
                 {
                     Node* temp = NULL;
-                    Node* prevptr = head;
-                    Node* currentptr = head->next;
+                    Node* prevptr = head; //head address
+                    Node* currentptr = head->next; //next address
+
+                    //Traverse the linked list from head to the key in argument
                     while(currentptr!=NULL)
                     {
                         if(currentptr->key==k)
