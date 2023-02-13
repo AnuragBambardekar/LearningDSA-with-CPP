@@ -9,8 +9,10 @@
 **DSAFolder 4:** Implementing Singly Linked List <br>
 **DSAFolder 5:** Implementing Doubly Linked List <br>
 **DSAFolder 6:** Implementing Circular Linked List <br>
+**DSAFolder 7:** Hash Tables <br>
 
 ### References
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q - Simple Snippets C++ Tutorial
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG - Simple Snippets DSA with C++
 - https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS - Neso Academy C++ Programming
+- https://www.youtube.com/watch?v=teWM5X5k1z0&list=PLIhOF82bFoMc35s930wP3VJ19l-ifVCt8&index=56 - HashTable Implementation
