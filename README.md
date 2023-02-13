@@ -8,6 +8,7 @@
 **DSAFolder 3:** Implementing Circular Queue using Arrays <br>
 **DSAFolder 4:** Implementing Singly Linked List <br>
 **DSAFolder 5:** Implementing Doubly Linked List <br>
+**DSAFolder 6:** Implementing Circular Linked List <br>
 
 ### References
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q - Simple Snippets C++ Tutorial
