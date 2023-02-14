@@ -3,7 +3,6 @@
 **C++ Tutorial** Learning about C++ Programming Language
 
 ### Data Structures
-**DSAFolder HW:** DSA Home Work
 **DSAFolder 1:** Implementing Stack using Arrays <br>
 **DSAFolder 2:** Implementing Queue using Arrays <br>
 **DSAFolder 3:** Implementing Circular Queue using Arrays <br>
@@ -11,6 +10,10 @@
 **DSAFolder 5:** Implementing Doubly Linked List <br>
 **DSAFolder 6:** Implementing Circular Linked List <br>
 **DSAFolder 7:** Hash Tables <br>
+**DSAFolder HW (hidden):** DSA Home Work  <br>
+    - TwoSum using HashMaps <br>
+    - Adding 2 Linked Lists <br>
+    - Merging Sorted Linked Lists using MinHeap. <br>
 
 ### References
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q - Simple Snippets C++ Tutorial
