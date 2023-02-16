@@ -10,6 +10,7 @@
 **DSAFolder 5:** Implementing Doubly Linked List <br>
 **DSAFolder 6:** Implementing Circular Linked List <br>
 **DSAFolder 7:** Hash Tables <br>
+**DSAFolder 8:** Linear Search <br>
 **DSAFolder HW (hidden):** DSA Home Work  <br>
     - TwoSum using HashMaps <br>
     - Adding 2 Linked Lists <br>
