@@ -16,6 +16,7 @@
 **DSAFolder 11:** Insertion Sort <br>
 **DSAFolder 12:** Bubble Sort <br>
 **DSAFolder 13:** Optimized Bubble Sort <br>
+**DSAFolder 14:** Time Complexity Demo - Sum of Numbers <br>
 **DSAFolder HW (hidden):** DSA Home Work  <br>
     - TwoSum using HashMaps <br>
     - Adding 2 Linked Lists <br>
