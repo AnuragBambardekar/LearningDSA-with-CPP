@@ -14,6 +14,7 @@
 **DSAFolder 9:** Binary Search <br>
 **DSAFolder 10:** Selection Sort <br>
 **DSAFolder 11:** Insertion Sort <br>
+**DSAFolder 12:** Bubble Sort <br>
 **DSAFolder HW (hidden):** DSA Home Work  <br>
     - TwoSum using HashMaps <br>
     - Adding 2 Linked Lists <br>
