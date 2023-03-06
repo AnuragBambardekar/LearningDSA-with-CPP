@@ -25,6 +25,9 @@ Homework 1 <br>
 - Merging Sorted Linked Lists using MinHeap. <br>
 
 Homework 2 <br>
+- In Order Traversal of Binary Tree - Iterative/ Recursive approaches <br>
+- Check for a valid Binary Search Tree <br>
+- Recovering a Binary Tree from Preorder Traversal <br>
 
 
 ### References
