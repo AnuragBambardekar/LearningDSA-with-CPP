@@ -18,6 +18,7 @@
 **DSAFolder 13:** Optimized Bubble Sort <br>
 **DSAFolder 14:** Time Complexity Demo - Sum of Numbers <br>
 **DSAFolder 15:** Merge Sort <br>
+**DSAFolder 16:** Quick Sort <br>
 **DSAFolder HW (hidden):** DSA Home Work  <br>
 Homework 1 <br>
 - TwoSum using HashMaps <br>
