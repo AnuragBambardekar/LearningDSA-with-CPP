@@ -40,6 +40,9 @@ Homework 3 <br>
 - Nested List Iterator <br>
 - Sorting Linked Lists in Ascending Order <br>
 
+Homework 4 <br>
+- Knuth-Morris-Pratt Algorithm <br>
+
 
 ### References
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q - Simple Snippets C++ Tutorial
