@@ -20,6 +20,7 @@
 **DSAFolder 15:** Merge Sort <br>
 **DSAFolder 16:** Quick Sort <br>
 **DSAFolder HW (hidden):** DSA Home Work  <br>
+**DSAFolder LeetCode HW:** DSA Home Work  <br>
 Homework 1 <br>
 - TwoSum using HashMaps <br>
 - Adding 2 Linked Lists <br>
@@ -30,6 +31,14 @@ Homework 2 <br>
 - Check for a valid Binary Search Tree <br>
 - Recovering a Binary Tree from Preorder Traversal <br>
 - Lexicographically smallest string <br>
+
+Homework 3 <br>
+- Baseball game score keeping <br>
+- Basic Calculator <br>
+- Count of Range Sums <br>
+- Decoding an Encoded String <br>
+- Nested List Iterator <br>
+- Sorting Linked Lists in Ascending Order <br>
 
 
 ### References
