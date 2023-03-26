@@ -41,7 +41,7 @@ Homework 3 <br>
 - Sorting Linked Lists in Ascending Order <br>
 
 Homework 4 <br>
-- Knuth-Morris-Pratt Algorithm <br>
+- Knuth-Morris-Pratt Algorithm [Prefix-Suffix Method & hash Method] <br>
 
 
 ### References
