@@ -44,6 +44,7 @@ Homework 4 <br>
 - Knuth-Morris-Pratt Algorithm [Prefix-Suffix Method & hash Method] <br>
 - Finding needle in a haystack <br>
 - Repeated String <br>
+- Shortest palindrome <br>
 
 
 ### References
