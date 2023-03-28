@@ -45,7 +45,9 @@ Homework 4 <br>
 - Finding needle in a haystack <br>
 - Repeated String <br>
 - Shortest palindrome <br>
-
+- Rotate String <br>
+- isSubTree <br>
+- Longest prefix <br>
 
 ### References
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q - Simple Snippets C++ Tutorial
