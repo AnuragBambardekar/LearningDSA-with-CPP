@@ -49,6 +49,14 @@ Homework 4 <br>
 - isSubTree <br>
 - Longest prefix <br>
 
+Homework 5
+- Valid Parantheses <br>
+- minimum Deletions <br>
+- freqStack <br>
+- isSameTree <br>
+- count of Battleships <br>
+- count of Concatenated words <br>
+
 ### References
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q - Simple Snippets C++ Tutorial
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG - Simple Snippets DSA with C++
