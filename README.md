@@ -57,6 +57,13 @@ Homework 5
 - count of Battleships <br>
 - count of Concatenated words <br>
 
+Homework 6
+- MCQ's <br>
+- GCD of min and max numbers <br>
+- Count of Primes in a range <br>
+- Max Score of an array <br>
+- Good Array
+
 ### References
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q - Simple Snippets C++ Tutorial
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG - Simple Snippets DSA with C++
