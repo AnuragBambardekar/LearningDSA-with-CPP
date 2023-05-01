@@ -66,7 +66,7 @@ Homework 6
 
 **AutoGrader Project implemented - [Private]** <br>
 **Project 2: A study of algorithms used for evaluaƟng Algebraic Expressions by Computers.** <br>
-
+- Infix to Postfix using Stacks <br>
 
 ### References
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q - Simple Snippets C++ Tutorial
