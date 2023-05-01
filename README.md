@@ -64,6 +64,10 @@ Homework 6
 - Max Score of an array <br>
 - Good Array
 
+**AutoGrader Project implemented - [Private]** <br>
+**Project 2: A study of algorithms used for evaluaƟng Algebraic Expressions by Computers.** <br>
+
+
 ### References
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q - Simple Snippets C++ Tutorial
 - https://www.youtube.com/playlist?list=PLIY8eNdw5tW_zX3OCzX7NJ8bL1p6pWfgG - Simple Snippets DSA with C++
