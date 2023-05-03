@@ -4,6 +4,8 @@
 #include <cmath>
 #include <vector>
 
+// Shunting Yard Algorithm
+
 using namespace std;
 
 int precedence(char op) {
@@ -16,41 +18,6 @@ int precedence(char op) {
     return 0;
 }
 
-// string infixToPostfix(string expression) {
-//     string result = "";
-//     stack<char> operators;
-
-//     for (int i = 0; i < expression.length(); i++) {
-//         char current = expression[i];
-
-//         if (isalnum(current)) {
-//             result += current;
-//         } else if (current == '(') {
-//             operators.push(current);
-//         } else if (current == ')') {
-//             while (!operators.empty() && operators.top() != '(') {
-//                 result += operators.top();
-//                 operators.pop();
-//             }
-//             if (!operators.empty() && operators.top() == '(') {
-//                 operators.pop();
-//             }
-//         } else {
-//             while (!operators.empty() && precedence(current) <= precedence(operators.top())) {
-//                 result += operators.top();
-//                 operators.pop();
-//             }
-//             operators.push(current);
-//         }
-//     }
-
-//     while (!operators.empty()) {
-//         result += operators.top();
-//         operators.pop();
-//     }
-
-//     return result;
-// }
 
 //check for unbalanced parantheses
 string infixToPostfix(string expression) {
@@ -139,7 +106,7 @@ int main() {
     vector<string> expressions = {"3+4*2/(1-5)^2", "5*(7-2)/3+8",
                                   "9*8/4-2+6/3+1", "(4+5)*2-8/4+9",
                                   "6*7-4/2+3*(8-5)","(2+3*4)10&6|4^2",
-                                  "((6+4)-2"};
+                                  "((6+4)-2","1+(2*3-(4/5^6)*7)*8"};
     for (auto& expression : expressions) {
     cout << "Infix Expression: " << expression << endl;
     try {
